@@ -1,0 +1,52 @@
+body {
+	margin: 0px;
+	font-family: "Avenir Next", "Avenir", "Helvetica Neue", "Helvetica" sans-serif;
+	font-weight: lighter;
+	font-size: 22px;
+  line-height:28px;
+	color: #8b919e;
+	background: white no-repeat center;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+}
+
+a {
+	text-decoration: none;
+	color: #383b40;
+	font-weight: normal;
+}
+
+#copy {
+	/*background: url('../img/iPhone.png') no-repeat center bottom;*/
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 0; right: 0;
+	width: 830px;
+	height: 768px;
+  text-align: center;
+}
+
+#container {
+	text-align: center;
+}
+
+#iphone {
+	display: block;
+	margin: auto;
+	position: absolute;
+	left: 0; right: 0;
+	width: 830px;
+	height: 768px;
+	text-align: center;
+	padding-top: 320px;
+}
+
+#icon {
+	padding-top: 112px;
+}
